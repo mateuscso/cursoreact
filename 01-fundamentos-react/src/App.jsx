@@ -4,14 +4,14 @@ import {Post} from './Post';
 import './styles.css';
 
 export function App() {
-  Return (
+  return (
     <div>
 
       <Header />
 
       <Post 
         author="Bruna Lyara"
-        content="Meu namo é maravilhoso"
+        content="Meu namorado é maravilhoso"
       />
       <Post
         author="Gabriel Buzzi"
